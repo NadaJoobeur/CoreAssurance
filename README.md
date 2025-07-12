@@ -16,7 +16,7 @@ Ce projet regroupe tous les composants du **Système d’Information Assurance**
 
 ## 📸 Aperçu
 
-![Aperçu du projet](./assets/architecture.png)
+![Aperçu du projet](./Home_Page.png)
 
 
 
